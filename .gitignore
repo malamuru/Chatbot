@@ -1,24 +1,9 @@
-# Dependencies
-node_modules
-.yarn
-
-# Build output
-dist
-dist-ssr
-
-# Environment variables (KEEP SECRET!)
+node_modules/
+dist/
 .env
-.env.local
-.env.production
-
-# Logs
-logs
+.env.*
+!.env.example
+logs/
 *.log
-
-# Editor
-.vscode
-.idea
-
-# OS
 .DS_Store
 Thumbs.db
