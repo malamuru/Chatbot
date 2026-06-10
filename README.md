@@ -6,8 +6,8 @@ Real-Time Conversational AI | React.js | Node.js | Groq API | Full Stack AI Appl
 
 ---
 ## Live Demo
-Backend - https://chatbot-backend-4u8g.onrender.com
-Frontend - https://chatbot-frontend-dvq3.onrender.com
+- Backend - https://chatbot-backend-4u8g.onrender.com
+- Frontend - https://chatbot-frontend-dvq3.onrender.com
 
 ----
 # ✨ Overview
